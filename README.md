@@ -1,2 +1,0 @@
-# sebastian.github.io
-proyecto
